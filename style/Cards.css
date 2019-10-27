@@ -14,7 +14,7 @@
 {
      direction: rtl;
 }
-  .card {
+  .card-test {
     width: 560px;
     height: 211px;
     margin: 0 auto;
@@ -32,7 +32,7 @@
         font-size: 19px;
         top: 43px;
     }
-    .card-text {
+    .card-test-text {
         font-size: 14px;
         color: #3c3c3c;
         margin: 0 auto;
@@ -43,13 +43,13 @@
         width: 404px;
     }
   
-    .card-img {
+    .card-test-img {
 
         position: absolute;
         right: 36px;
         top: 53px;
     }
-    .card-img img {
+    .card-test-img img {
         width: 113px;
         position: absolute;
         right: -19px;

@@ -7,7 +7,7 @@
   
   /*********************** Card ****/
   
-    .card {
+    .card1, .card2, .card3 {
         width: 292px;
         height: 141px;
         margin: 0 auto;
@@ -17,7 +17,7 @@
         border: none;
     }
   
-    .card-title {
+    .card1-title, .card2-title, .card3-title {
         margin-bottom: .75rem;
         float: right;
         position: absolute;
@@ -26,7 +26,7 @@
         font-size: 19px;
         top: 43px;
     }
-    .card-text {
+    .card1-text, .card2-text, .card3-text {
         /* margin: auto; */
         position: absolute;
         right: 18px;
