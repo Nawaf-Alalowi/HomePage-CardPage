@@ -1,6 +1,6 @@
 # home-page-card-page
-home page & card page .\n
-used :
+Home page & Card page ..
+Used :
 - HTML
 - CSS
 - Bootsrap
